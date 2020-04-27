@@ -5,5 +5,7 @@ Libraries used
 1. bs4
 2. requests
 
+url_to_crawl = 'https://www.imdb.com/list/ls025929404/'
+
 Database used
- Mongodb
+Mongodb
