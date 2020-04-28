@@ -9,3 +9,5 @@ url_to_crawl = 'https://www.imdb.com/list/ls025929404/'
 
 Database used
 Mongodb
+
+database screenshot - database.png
