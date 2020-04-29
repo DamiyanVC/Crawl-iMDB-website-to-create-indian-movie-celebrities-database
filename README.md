@@ -4,6 +4,7 @@ Project - Crawl popular websites & create a database of Indian movie celebrities
 Libraries used
 1. bs4
 2. requests
+3. pymongo
 
 url_to_crawl = 'https://www.imdb.com/list/ls025929404/'
 
